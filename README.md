@@ -9,22 +9,23 @@
  - [Excel and Word Report](https://github.com/SazzadForazi/jmeterBooks-loadTest/tree/main/resources)
  
 ## Load Test Strategy
-  ### Server
-  - 980 sec 2500 user
+### Server
+ - 980 sec 2500 user
   ![Screenshot_3](https://user-images.githubusercontent.com/70914227/176993916-73c54197-a6b9-4bbf-ab15-04e52090935b.png)
+  ![Screenshot_4](https://user-images.githubusercontent.com/70914227/177011312-d6f1621a-6415-446b-bb99-03e423b79248.png)
+  ![Screenshot_5](https://user-images.githubusercontent.com/70914227/177011313-4383e32f-690a-4b5a-a600-50e4c51aef3f.png)
   
 ## Jmeter Summary Report
-- 60 sec, 167 user 
+ - 60 sec, 167 user 
 
-![1](https://user-images.githubusercontent.com/70914227/176993924-13d88c7b-1538-43f5-bfbe-09a43a4f441a.png)
+   ![1](https://user-images.githubusercontent.com/70914227/176993924-13d88c7b-1538-43f5-bfbe-09a43a4f441a.png)
+
+ - 300 sec, 833 user 
+
+   ![2](https://user-images.githubusercontent.com/70914227/176993926-f4ce610d-9412-4150-8cb7-d9dcaa3c6dc5.png)
 
 
-- 300 sec, 833 user 
+ - 650 sec, 1667 user 
 
-![2](https://user-images.githubusercontent.com/70914227/176993926-f4ce610d-9412-4150-8cb7-d9dcaa3c6dc5.png)
-
-
-- 650 sec, 1667 user 
-
-![3](https://user-images.githubusercontent.com/70914227/176993927-ec305afc-369d-446b-8dd3-fb31aedec014.png)
+   ![3](https://user-images.githubusercontent.com/70914227/176993927-ec305afc-369d-446b-8dd3-fb31aedec014.png)
 
